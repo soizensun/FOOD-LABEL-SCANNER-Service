@@ -1,0 +1,25 @@
+/* input {
+    padding: 10px;
+} */
+
+.uploadButton {
+    padding-left: 40px;
+    padding-right: 40px; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 20px;
+    background-color: navajowhite;
+    border-radius: 5px;
+    border-style: black solid;
+    color: black;
+}
+.uploadButton:hover {
+    padding-left: 40px;
+    padding-right: 40px; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 20px;
+    background-color: lightcoral;
+    border-radius: 5px;
+    border-style: solid;
+}

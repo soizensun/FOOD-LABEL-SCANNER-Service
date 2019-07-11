@@ -1,0 +1,10 @@
+{
+  "engines": {
+    "node": ">= 4.0"
+  },
+  "dependencies": {
+    "deployd": "^1.0.0",
+    "dpd-dashboard": "^0.0.1",
+    "dpd-clientlib": "^0.0.1"
+  }
+}

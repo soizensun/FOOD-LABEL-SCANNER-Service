@@ -1,0 +1,37 @@
+{
+	"type": "Collection",
+	"properties": {
+		"market": {
+			"name": "market",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "market",
+			"order": 0
+		},
+		"name": {
+			"name": "name",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "name",
+			"order": 1
+		},
+		"exDate": {
+			"name": "exDate",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "exDate",
+			"order": 2
+		},
+		"netWeight": {
+			"name": "netWeight",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "netWeight",
+			"order": 3
+		}
+	}
+}

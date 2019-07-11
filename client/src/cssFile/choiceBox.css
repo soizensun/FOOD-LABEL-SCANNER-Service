@@ -1,0 +1,62 @@
+.select {
+    padding-top: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.spinner {
+    text-align: center;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 9px;
+    border: 1px;
+}
+
+.labelSelectZone{
+    color: aquamarine;
+    font-size: calc(10px + 2vmin);
+  }
+
+.selectionButton {
+    padding-left: 40px;
+    padding-right: 40px; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 20px;
+    background-color: cadetblue;
+    border-radius: 5px;
+    border-style: solid;
+}
+.selectionButton:hover {
+    padding-left: 40px;
+    padding-right: 40px; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 20px;
+    background-color: darksalmon;
+    border-radius: 5px;
+    border-style: solid;
+}
+
+
+
+li {
+    list-style-type: none;
+}
+
+.table {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+ 
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+.table {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+  }
